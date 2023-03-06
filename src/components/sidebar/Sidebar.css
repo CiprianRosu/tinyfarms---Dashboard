@@ -8,6 +8,8 @@
     width: 100px;
     border-radius: 25px;
     margin-left: 25px;
+    margin-bottom: 45px;
+    /* margin-top: 45px; */
   }
 
  .sidebar__menu svg {

@@ -1,12 +1,9 @@
 import React from 'react'
-import {Routes , Route} from 'react-router-dom'
+import './Controls.css'
 
 const Controls = () => {
   return (
-
-    <div>
-            Controls
-        </div>
+    <div>Controls</div>
   )
 }
 

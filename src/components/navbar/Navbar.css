@@ -8,17 +8,10 @@
     padding: 0 30px 0 30px;
     border-bottom: 1px solid lightgray;
     border-radius: 25px;
+    margin-right: 50px;
   }
   
-  /* .nav_icon {
-    display: none;
-  }
-  
-  .nav_icon > i {
-    font-size: 26px;
-    color: #a5aaad;
-  }
-   */
+
   .navbar__left > a {
     margin-right: 30px;
     text-decoration: none;
